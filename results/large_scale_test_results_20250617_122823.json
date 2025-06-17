@@ -1,0 +1,246 @@
+{
+  "test_summary": {
+    "total_tests": 30,
+    "valid_results": 12,
+    "best_compression": 631672.2891566266,
+    "best_algorithm": "Recursive Self-Reference",
+    "largest_data_size": 104857600,
+    "target_compression": 131072
+  },
+  "detailed_results": [
+    {
+      "algorithm": "Advanced Pattern Recognition",
+      "data_size": 1024,
+      "error": "unhashable type: 'slice'",
+      "compression_ratio": 0
+    },
+    {
+      "algorithm": "Hierarchical Fractal Encoding",
+      "data_size": 1024,
+      "compression_ratio": 0.8139904610492846,
+      "test_time": 0.0,
+      "compressed_size": 1258,
+      "progress_to_target": 0.0006210254372019078,
+      "throughput_mbps": 0
+    },
+    {
+      "algorithm": "Multi-Stage Pipeline",
+      "data_size": 1024,
+      "error": "unhashable type: 'slice'",
+      "compression_ratio": 0
+    },
+    {
+      "algorithm": "Adaptive Hybrid System",
+      "data_size": 1024,
+      "error": "unhashable type: 'slice'",
+      "compression_ratio": 0
+    },
+    {
+      "algorithm": "Recursive Self-Reference",
+      "data_size": 1024,
+      "compression_ratio": 6.481012658227848,
+      "test_time": 0.0,
+      "compressed_size": 158,
+      "progress_to_target": 0.004944620253164557,
+      "throughput_mbps": 0
+    },
+    {
+      "algorithm": "Advanced Pattern Recognition",
+      "data_size": 10240,
+      "error": "unhashable type: 'slice'",
+      "compression_ratio": 0
+    },
+    {
+      "algorithm": "Hierarchical Fractal Encoding",
+      "data_size": 10240,
+      "compression_ratio": 0.9049133969600566,
+      "test_time": 0.0,
+      "compressed_size": 11316,
+      "progress_to_target": 0.0006903941322021916,
+      "throughput_mbps": 0
+    },
+    {
+      "algorithm": "Multi-Stage Pipeline",
+      "data_size": 10240,
+      "error": "unhashable type: 'slice'",
+      "compression_ratio": 0
+    },
+    {
+      "algorithm": "Adaptive Hybrid System",
+      "data_size": 10240,
+      "error": "unhashable type: 'slice'",
+      "compression_ratio": 0
+    },
+    {
+      "algorithm": "Recursive Self-Reference",
+      "data_size": 10240,
+      "compression_ratio": 30.521609538002977,
+      "test_time": 0.0,
+      "compressed_size": 366,
+      "progress_to_target": 0.023286140089418775,
+      "throughput_mbps": 0
+    },
+    {
+      "algorithm": "Advanced Pattern Recognition",
+      "data_size": 102400,
+      "error": "unhashable type: 'slice'",
+      "compression_ratio": 0
+    },
+    {
+      "algorithm": "Hierarchical Fractal Encoding",
+      "data_size": 102400,
+      "compression_ratio": 6.189555125725338,
+      "test_time": 0.008326530456542969,
+      "compressed_size": 16544,
+      "progress_to_target": 0.00472225580270793,
+      "throughput_mbps": 11.728324361470621
+    },
+    {
+      "algorithm": "Multi-Stage Pipeline",
+      "data_size": 102400,
+      "error": "unhashable type: 'slice'",
+      "compression_ratio": 0
+    },
+    {
+      "algorithm": "Adaptive Hybrid System",
+      "data_size": 102400,
+      "error": "unhashable type: 'slice'",
+      "compression_ratio": 0
+    },
+    {
+      "algorithm": "Recursive Self-Reference",
+      "data_size": 102400,
+      "compression_ratio": 68.20405310971348,
+      "test_time": 0.0,
+      "compressed_size": 1728,
+      "progress_to_target": 0.05203556298043326,
+      "throughput_mbps": 0
+    },
+    {
+      "algorithm": "Advanced Pattern Recognition",
+      "data_size": 1048576,
+      "error": "unhashable type: 'slice'",
+      "compression_ratio": 0
+    },
+    {
+      "algorithm": "Hierarchical Fractal Encoding",
+      "data_size": 1048576,
+      "compression_ratio": 62.25589265570267,
+      "test_time": 0.009444713592529297,
+      "compressed_size": 16843,
+      "progress_to_target": 0.047497476696550495,
+      "throughput_mbps": 105.87933558842833
+    },
+    {
+      "algorithm": "Multi-Stage Pipeline",
+      "data_size": 1048576,
+      "error": "unhashable type: 'slice'",
+      "compression_ratio": 0
+    },
+    {
+      "algorithm": "Adaptive Hybrid System",
+      "data_size": 1048576,
+      "error": "unhashable type: 'slice'",
+      "compression_ratio": 0
+    },
+    {
+      "algorithm": "Recursive Self-Reference",
+      "data_size": 1048576,
+      "compression_ratio": 1288.0997123681686,
+      "test_time": 0.0,
+      "compressed_size": 1043,
+      "progress_to_target": 0.9827420901246404,
+      "throughput_mbps": 0
+    },
+    {
+      "algorithm": "Advanced Pattern Recognition",
+      "data_size": 10485760,
+      "error": "unhashable type: 'slice'",
+      "compression_ratio": 0
+    },
+    {
+      "algorithm": "Hierarchical Fractal Encoding",
+      "data_size": 10485760,
+      "compression_ratio": 1041.700774885754,
+      "test_time": 0.023331165313720703,
+      "compressed_size": 10066,
+      "progress_to_target": 0.794754619511226,
+      "throughput_mbps": 428.6112530401194
+    },
+    {
+      "algorithm": "Multi-Stage Pipeline",
+      "data_size": 10485760,
+      "error": "unhashable type: 'slice'",
+      "compression_ratio": 0
+    },
+    {
+      "algorithm": "Adaptive Hybrid System",
+      "data_size": 10485760,
+      "error": "unhashable type: 'slice'",
+      "compression_ratio": 0
+    },
+    {
+      "algorithm": "Recursive Self-Reference",
+      "data_size": 10485760,
+      "compression_ratio": 81284.96124031008,
+      "test_time": 0.0,
+      "compressed_size": 258,
+      "progress_to_target": 62.01550387596899,
+      "throughput_mbps": 0
+    },
+    {
+      "algorithm": "Advanced Pattern Recognition",
+      "data_size": 104857600,
+      "error": "unhashable type: 'slice'",
+      "compression_ratio": 0
+    },
+    {
+      "algorithm": "Hierarchical Fractal Encoding",
+      "data_size": 104857600,
+      "compression_ratio": 24144.04789316141,
+      "test_time": 0.2679283618927002,
+      "compressed_size": 4343,
+      "progress_to_target": 18.420446695832375,
+      "throughput_mbps": 373.23409620982176
+    },
+    {
+      "algorithm": "Multi-Stage Pipeline",
+      "data_size": 104857600,
+      "error": "unhashable type: 'slice'",
+      "compression_ratio": 0
+    },
+    {
+      "algorithm": "Adaptive Hybrid System",
+      "data_size": 104857600,
+      "error": "unhashable type: 'slice'",
+      "compression_ratio": 0
+    },
+    {
+      "algorithm": "Recursive Self-Reference",
+      "data_size": 104857600,
+      "compression_ratio": 631672.2891566266,
+      "test_time": 0.0,
+      "compressed_size": 166,
+      "progress_to_target": 481.9277108433735,
+      "throughput_mbps": 0
+    }
+  ],
+  "algorithm_stats": {
+    "Hierarchical Fractal Encoding": [
+      0.8139904610492846,
+      0.9049133969600566,
+      6.189555125725338,
+      62.25589265570267,
+      1041.700774885754,
+      24144.04789316141
+    ],
+    "Recursive Self-Reference": [
+      6.481012658227848,
+      30.521609538002977,
+      68.20405310971348,
+      1288.0997123681686,
+      81284.96124031008,
+      631672.2891566266
+    ]
+  }
+}

@@ -1,0 +1,19 @@
+# Breakthrough Compression Algorithm Requirements
+# Repository: https://github.com/rockstaaa/breakthrough-compression-algorithm
+
+# Core dependencies
+numpy>=1.21.0
+hashlib2>=1.3.1
+
+# Optional dependencies for examples
+transformers>=4.20.0
+torch>=1.12.0
+safetensors>=0.3.0
+
+# Development dependencies
+pytest>=7.0.0
+flake8>=4.0.0
+black>=22.0.0
+
+# Documentation
+markdown>=3.4.0

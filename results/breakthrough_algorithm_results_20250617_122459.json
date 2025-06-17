@@ -1,0 +1,168 @@
+{
+  "test_summary": {
+    "total_tests": 15,
+    "valid_results": 10,
+    "best_compression": 1358.259067357513,
+    "best_algorithm": "G\u00f6del Encoding (Prime Factorization)",
+    "target_compression": 131072,
+    "progress_percentage": 1.0362694300518136
+  },
+  "detailed_results": [
+    {
+      "algorithm": "Fractal Indexing (Mandelbrot)",
+      "data_size": 1024,
+      "compression_ratio": 1.0260521042084167,
+      "data_integrity": 0.0,
+      "compress_time": 0.0,
+      "decompress_time": 0.0,
+      "total_time": 0.0,
+      "compressed_size": 998,
+      "progress_to_target": 0.000782815631262525
+    },
+    {
+      "algorithm": "G\u00f6del Encoding (Prime Factorization)",
+      "data_size": 1024,
+      "compression_ratio": 5.417989417989418,
+      "data_integrity": 0.0,
+      "compress_time": 0.0,
+      "decompress_time": 0.0,
+      "total_time": 0.0,
+      "compressed_size": 189,
+      "progress_to_target": 0.004133597883597883
+    },
+    {
+      "algorithm": "Advanced Tensor Decomposition",
+      "data_size": 1024,
+      "error": "matmul: Input operand 1 has a mismatch in its core dimension 0, with gufunc signature (n?,k),(k,m?)->(n?,m?) (size 10 is different from 5)",
+      "compression_ratio": 0
+    },
+    {
+      "algorithm": "Fractal Indexing (Mandelbrot)",
+      "data_size": 4096,
+      "compression_ratio": 4.112449799196787,
+      "data_integrity": 0.0,
+      "compress_time": 0.0,
+      "decompress_time": 0.012022972106933594,
+      "total_time": 0.012022972106933594,
+      "compressed_size": 996,
+      "progress_to_target": 0.0031375502008032124
+    },
+    {
+      "algorithm": "G\u00f6del Encoding (Prime Factorization)",
+      "data_size": 4096,
+      "compression_ratio": 21.557894736842105,
+      "data_integrity": 0.0,
+      "compress_time": 0.0,
+      "decompress_time": 0.0,
+      "total_time": 0.0,
+      "compressed_size": 190,
+      "progress_to_target": 0.01644736842105263
+    },
+    {
+      "algorithm": "Advanced Tensor Decomposition",
+      "data_size": 4096,
+      "error": "matmul: Input operand 1 has a mismatch in its core dimension 0, with gufunc signature (n?,k),(k,m?)->(n?,m?) (size 10 is different from 5)",
+      "compression_ratio": 0
+    },
+    {
+      "algorithm": "Fractal Indexing (Mandelbrot)",
+      "data_size": 16384,
+      "compression_ratio": 10.807387862796833,
+      "data_integrity": 0.0,
+      "compress_time": 0.0,
+      "decompress_time": 0.024028539657592773,
+      "total_time": 0.024028539657592773,
+      "compressed_size": 1516,
+      "progress_to_target": 0.008245382585751979
+    },
+    {
+      "algorithm": "G\u00f6del Encoding (Prime Factorization)",
+      "data_size": 16384,
+      "compression_ratio": 85.78010471204189,
+      "data_integrity": 0.0,
+      "compress_time": 0.0025413036346435547,
+      "decompress_time": 0.0,
+      "total_time": 0.0025413036346435547,
+      "compressed_size": 191,
+      "progress_to_target": 0.06544502617801047
+    },
+    {
+      "algorithm": "Advanced Tensor Decomposition",
+      "data_size": 16384,
+      "error": "matmul: Input operand 1 has a mismatch in its core dimension 0, with gufunc signature (n?,k),(k,m?)->(n?,m?) (size 10 is different from 5)",
+      "compression_ratio": 0
+    },
+    {
+      "algorithm": "Fractal Indexing (Mandelbrot)",
+      "data_size": 65536,
+      "compression_ratio": 14.897931348033644,
+      "data_integrity": 0.0,
+      "compress_time": 0.0,
+      "decompress_time": 0.05869793891906738,
+      "total_time": 0.05869793891906738,
+      "compressed_size": 4399,
+      "progress_to_target": 0.011366219595362582
+    },
+    {
+      "algorithm": "G\u00f6del Encoding (Prime Factorization)",
+      "data_size": 65536,
+      "compression_ratio": 341.3333333333333,
+      "data_integrity": 0.0,
+      "compress_time": 0.0057446956634521484,
+      "decompress_time": 0.0,
+      "total_time": 0.0057446956634521484,
+      "compressed_size": 192,
+      "progress_to_target": 0.26041666666666663
+    },
+    {
+      "algorithm": "Advanced Tensor Decomposition",
+      "data_size": 65536,
+      "error": "matmul: Input operand 1 has a mismatch in its core dimension 0, with gufunc signature (n?,k),(k,m?)->(n?,m?) (size 10 is different from 5)",
+      "compression_ratio": 0
+    },
+    {
+      "algorithm": "Fractal Indexing (Mandelbrot)",
+      "data_size": 262144,
+      "compression_ratio": 59.4835488994781,
+      "data_integrity": 0.0,
+      "compress_time": 0.0038237571716308594,
+      "decompress_time": 0.05839872360229492,
+      "total_time": 0.06222248077392578,
+      "compressed_size": 4407,
+      "progress_to_target": 0.04538234626730202
+    },
+    {
+      "algorithm": "G\u00f6del Encoding (Prime Factorization)",
+      "data_size": 262144,
+      "compression_ratio": 1358.259067357513,
+      "data_integrity": 0.0,
+      "compress_time": 0.02477717399597168,
+      "decompress_time": 0.0,
+      "total_time": 0.02477717399597168,
+      "compressed_size": 193,
+      "progress_to_target": 1.0362694300518136
+    },
+    {
+      "algorithm": "Advanced Tensor Decomposition",
+      "data_size": 262144,
+      "error": "matmul: Input operand 1 has a mismatch in its core dimension 0, with gufunc signature (n?,k),(k,m?)->(n?,m?) (size 10 is different from 5)",
+      "compression_ratio": 0
+    }
+  ],
+  "algorithm_stats": {
+    "Fractal Indexing (Mandelbrot)": [
+      1.0260521042084167,
+      4.112449799196787,
+      10.807387862796833,
+      14.897931348033644,
+      59.4835488994781
+    ],
+    "G\u00f6del Encoding (Prime Factorization)": [
+      5.417989417989418,
+      21.557894736842105,
+      85.78010471204189,
+      341.3333333333333,
+      1358.259067357513
+    ]
+  }
+}
